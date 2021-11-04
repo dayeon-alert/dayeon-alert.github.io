@@ -5,4 +5,4 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> 개인적인 공부와 알고리즘, 그 외의 것들을 기록하는 곳입니다. 

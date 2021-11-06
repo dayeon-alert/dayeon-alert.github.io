@@ -4,7 +4,6 @@ author: 다연
 date: 2021-11-05 04:08:00
 categories: [Algorithm, LeetCode]
 tags: [LeetCode, easy, String, Hash Table]
-pin: true
 ---
 
 ## [문제](https://leetcode.com/problems/roman-to-integer/)

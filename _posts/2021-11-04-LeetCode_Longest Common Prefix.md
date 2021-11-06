@@ -4,7 +4,6 @@ author: 다연
 date: 2021-11-04 15:35:00
 categories: [Algorithm, LeetCode]
 tags: [LeetCode, easy, String]
-pin: true
 ---
 
 ## [문제](https://leetcode.com/problems/longest-common-prefix/)

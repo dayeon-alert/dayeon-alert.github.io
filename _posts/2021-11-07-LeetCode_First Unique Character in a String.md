@@ -1,7 +1,7 @@
 ﻿---
 title: LeetCode_First Unique Character in a String
 author: 다연
-date: 2021-11-07 00:07:00
+date: 2021-11-07 00:07:00 +0900
 categories: [Algorithm, LeetCode]
 tags: [LeetCode, easy, String, Hash Table]
 ---

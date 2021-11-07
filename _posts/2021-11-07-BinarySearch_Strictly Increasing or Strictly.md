@@ -1,7 +1,7 @@
 ﻿---
 title: BinarySearch_Strictly Increasing or Strictly
 author: 다연
-date: 2021-11-07 00:08:00
+date: 2021-11-07 00:08:00 +0900
 categories: [Algorithm, BinarySearch]
 tags: [BinarySearch, easy, Array]
 ---

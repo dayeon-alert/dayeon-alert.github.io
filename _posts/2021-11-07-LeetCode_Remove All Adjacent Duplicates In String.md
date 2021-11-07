@@ -1,7 +1,7 @@
 ﻿---
 title: LeetCode_Remove All Adjacent Duplicates In String
 author: 다연
-date: 2021-11-07 00:08:00
+date: 2021-11-07 23:39:00
 categories: [Algorithm, LeetCode]
 tags: [LeetCode, easy, Stack]
 ---

@@ -34,19 +34,18 @@ Space: O(N)
 # 코드
 ---
 ```JavaScript
-class  Solution {
-	solve(nums) {
-		let descending=true;
-		let ascending=true;
-
-		for(let i = 0; i<nums.length-1;i++){
-			if(nums[i]<=nums[i+1]) descending = false;
-			if(nums[i]>=nums[i+1]) ascending = false;
-		}
-		
-		return descending||ascending
-	}
-}
+var removeDuplicates = function(s) { // Input abcdefg (n)
+    let strArr = []; // strArr에 내가 많은 데이터를 넣을 수록 space를 많이 차지한다
+    for(let i =0; i<s.length; i++){        
+        if(s[i]!==strArr[strArr.length-1]){
+            strArr.push(s[i]);
+            continue;
+        }
+        strArr.pop();
+    }
+    // 배열을 하나의 문자열로 만들어서 반환
+    return strArr.join("");  
+};
 ```
 # Submission Detail
 ---

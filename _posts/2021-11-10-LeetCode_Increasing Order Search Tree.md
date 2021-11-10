@@ -11,7 +11,7 @@ Given the `root` of a binary search tree, rearrange the tree in **in-order** so 
 **Output:** [1,null,2,null,3,null,4,null,5,null,6,null,7,null,8,null,9]
 
 > **Input:** root = [5,1,7]  
-**Output:** [1,null,5,null,7]
+**Output:** [1,null,5,null,7]  
 # 과정
 ---
 > I: Tree  

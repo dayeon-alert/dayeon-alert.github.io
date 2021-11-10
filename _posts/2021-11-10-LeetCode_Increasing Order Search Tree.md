@@ -1,4 +1,4 @@
-﻿---
+---
 title: LeetCode_Increasing Order Search Tree
 author: 다연
 date: 2021-11-10 23:09:00 +0900

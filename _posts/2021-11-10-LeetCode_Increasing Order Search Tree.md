@@ -26,7 +26,7 @@ Space: O(H)
 
 # 코드
 ---
-``` console
+```console
 var increasingBST = function(root) {
 	let ansNode = new TreeNode(0);
     let cur = ansNode;

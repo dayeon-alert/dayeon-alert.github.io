@@ -12,6 +12,7 @@ Given the `root` of a binary search tree, rearrange the tree in **in-order** so 
 
 > **Input:** root = [5,1,7]  
 **Output:** [1,null,5,null,7]  
+
 # 과정
 ---
 > I: Tree  
@@ -42,7 +43,6 @@ var increasingBST = function(root) {
     return ansNode.right;
 };
 ```
-{: file='JavaScript'}
 # Submission Detail
 ---
 Runtime:  **76 ms**  

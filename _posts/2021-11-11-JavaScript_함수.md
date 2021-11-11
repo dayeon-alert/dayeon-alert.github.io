@@ -1,4 +1,4 @@
-﻿---
+---
 title: JavaScript_함수
 author: 다연
 date: 2021-11-11 22:46:00 +0900
@@ -127,49 +127,9 @@ function 함수명([인자...[,인자]){
 - 여러개의 입력값을 받을 수 있지만 return값은 한 개만 가능하다.
 
 ## 다양한 정의 방법
-
 ```
 <!DOCTYPE html>
 <html>
-<head>
-	<title></title>
-	<script type="text/javascript">
-	var numbering = function(){ // numbering이라는 변수가 함수를 갖게 된 것. 
-		i = 0;
-		while(i < 10){
-			document.write(i);
-			i += 1;
-		}
-	}
-	/*
-	function numbering(){
-		i = 0;
-		while(i < 10){
-			document.write(i);
-			i += 1;
-		}
-	}
-	*/
-	// 이렇게 선언하면 상단 두 종류의 코드는 동일하다.
-	numbering();
-	
-	// 함수를 정의한 후 괄호로 묶었다.
-	// 이후 함수를 호출할 때 사용하는 기호 ();를 사용,
-	// 따라서 함수를 정의하는 것과 정의된 함수를 호출하는 것이 한 문장에 들어간다.
-	// 이를 익명함수라 한다. 이름이 없고 바로 실행되는 함수다.
-	// 일회성으로 호출할 때 이런 techin을 사용한다.
-	// 요약 : 정의와 호출이 동시에 가능한 함수.
-	
-	(function(){
-		i = 0;
-		while(i < 10){
-			document.write(i);
-			i += 1;
-		}
-	})(); 
-	</script>
-</body>
-</html>
 ```
 
 - 함수는 코드의 재활용성을 높여준다.

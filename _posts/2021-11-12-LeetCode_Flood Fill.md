@@ -19,6 +19,7 @@ Return  _the modified image after performing the flood fill_.
 
 > **Input:** image = [[0,0,0],[0,0,0]], sr = 0, sc = 0, newColor = 2  
 **Output:** [[2,2,2],[2,2,2]]  
+
 # 과정
 ---
 > I:  MxN Matrix, sr(Integer), sc(Integer), newColor(Integer)  
@@ -30,6 +31,7 @@ Algo: DFS
 
 
 > Pseudo:  
+
 ```
 [[1,1,1],
 [1,"1",0],

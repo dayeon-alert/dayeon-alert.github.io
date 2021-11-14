@@ -12,6 +12,8 @@ tags: [JavaScript, Inflearn]
 ### 배열의 생성
 - 대괄호([])는 배열을 만드는 기호.
 - 대괄호 안에 데이터를 콤마(,)로 구분해서 내열하면 배열이 된다.
+
+
 ``` Chrome Browser
 var member  = ['egoing', 'k8805', 'sorialgi'] // undefined
 
@@ -19,6 +21,8 @@ member // ["egoing", "k8805", "sorialgi"]
 ```
 - var member1 = "egoing"; 같은 식으로 변수에 하나의 값을 담았으나, 배열을 사용하면 하나의 변수 안에 여러 개의 데이터를 담을 수 있게 된다.
 - 배열에 들어 있는 각각의 데이터를 원소(Element)라고 부른다.
+
+
 ```
 var member = ['egoing', 'k8805', 'sorialgi']
 alert(member[0]);

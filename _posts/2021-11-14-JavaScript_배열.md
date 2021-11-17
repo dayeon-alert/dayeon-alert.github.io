@@ -14,7 +14,7 @@ tags: [JavaScript, Inflearn]
 - 대괄호 안에 데이터를 콤마(,)로 구분해서 내열하면 배열이 된다.
 
 
-``` Chrome Browser
+```
 var member  = ['egoing', 'k8805', 'sorialgi'] // undefined
 
 member // ["egoing", "k8805", "sorialgi"]
